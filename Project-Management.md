@@ -7,10 +7,9 @@ We have been contracted by ZSL (Zoological Society of London) to design and prod
 ## II. First Client Meeting (2nd October 2017)
 Our first meeting with the client involeed a representative from ZSL visiting us and giving a presentation about what they wanted us to create for them. The information given to us included:
 
-  # 
-
 ## III. Schedule/Plan
 ![zsl-gant-chart](https://user-images.githubusercontent.com/31927590/32982650-aa66be46-cc7f-11e7-812b-7c7ca76f7c94.PNG)
+
 ## IV. Designing
 
 ## V. Concept Pitch (17th October 2017)
