@@ -1,5 +1,5 @@
 # Amazing-Animal-Rescue
-# Original chain
+# Original chain:
 ## Beef (British Wildlife)
 1.	Carbon is released when tress are cut down to make space to grow cows feed
 2.	Carbon is released from pesticides that are used on cow feed to stop them being damaged by pests
@@ -47,7 +47,7 @@
 8.	Carbon released when electricity is used every time the phone is charged
 9.	Carbon released as raw materials continue to be mined if the phone is not recycled
 
-# Final Chain
+# Final Chain:
 ## Beef (British Wildlife)
 1.	Carbon is released when tress are cut down to make space for cows and to grow their feed
 2.	Carbon is released from pesticides that are used on cow feed to stop them being damaged by pests
