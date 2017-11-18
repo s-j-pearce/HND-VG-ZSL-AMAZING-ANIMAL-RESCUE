@@ -10,7 +10,7 @@ Our first meeting with the client involeed a representative from ZSL visiting us
   # 
 
 ## III. Schedule/Plan
-![zsl-gant-chart](https://user-images.githubusercontent.com/31927590/32982626-38eaabd8-cc7f-11e7-9550-eb820dc2af7f.PNG)
+![zsl-gant-chart](https://user-images.githubusercontent.com/31927590/32982650-aa66be46-cc7f-11e7-812b-7c7ca76f7c94.PNG)
 ## IV. Designing
 
 ## V. Concept Pitch (17th October 2017)
