@@ -11,7 +11,7 @@ Our first meeting with the client involeed a representative from ZSL visiting us
 ![zsl-gant-chart](https://user-images.githubusercontent.com/31927590/32982650-aa66be46-cc7f-11e7-812b-7c7ca76f7c94.PNG)
 
 ## IV. Designing
-As you can see from the images below, we had an initial idea that we liked and that we wanted to stick with: ![img_0542](https://user-images.githubusercontent.com/31927590/32982722-cfd365de-cc80-11e7-98b0-13f2187c9d9e.jpg)
+As you can see from the images below, we had an initial idea that we liked and that we wanted to stick with: ![img_0542](https://user-images.githubusercontent.com/31927590/32982722-cfd365de-cc80-11e7-98b0-13f2187c9d9e.jpg "Concept Drawing")
 
 ## V. Concept Pitch (17th October 2017)
 
