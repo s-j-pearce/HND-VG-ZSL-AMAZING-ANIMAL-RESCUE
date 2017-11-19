@@ -16,7 +16,7 @@ As you can see from the images below, we had an initial idea that we liked and t
 
 | Before:        | After:           |
 | -------------- |:----------------:|
-| col 3 is       | right-aligned    |
+| ![img_0542](https://user-images.githubusercontent.com/31927590/32982722-cfd365de-cc80-11e7-98b0-13f2187c9d9e.jpg "Concept Drawing")       | right-aligned    |
 | col 2 is       | centered         |
 | zebra stripes  | are neat         |
 
