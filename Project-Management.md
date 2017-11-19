@@ -11,12 +11,11 @@ Our first meeting with the client involeed a representative from ZSL visiting us
 ![zsl-gant-chart](https://user-images.githubusercontent.com/31927590/32982650-aa66be46-cc7f-11e7-812b-7c7ca76f7c94.PNG)
 
 ## IV. Designing
-As you can see from the images below, we had an initial idea that we liked and that we wanted to stick with: 
-
+# Concept Drawing:
 |Explination:| Concept art:|
 | -------------- | -------------- |
 |As you can see from the image to the right, we designed on paper an idea/storyboard of how we visioned the game to play| ![concept design](https://user-images.githubusercontent.com/31927590/32996019-10a4f72c-cd75-11e7-9144-f2b94292943a.png)|
-
+# First initial designs:
 |                | Before:        | After:           |
 | -------------- | -------------- |:----------------:|
 | Menu:          | ![zsl-habitat-screen](https://user-images.githubusercontent.com/31927590/32994252-61a2f278-cd5c-11e7-8b80-32b72ada6740.png)               | ![zsl-habitat-screen-final](https://user-images.githubusercontent.com/31927590/32994333-7f63159e-cd5d-11e7-8dee-876b6980ff36.png)    |
