@@ -17,7 +17,7 @@ Drawn concept art: ![img_0542](https://user-images.githubusercontent.com/3192759
 
 |                | Before:        | After:           |
 | -------------- | -------------- |:----------------:|
-| Menu:          |                | right-aligned    |
+| Menu:          | ![zsl-habitat-screen](https://user-images.githubusercontent.com/31927590/32994252-61a2f278-cd5c-11e7-8b80-32b72ada6740.png)               | ![zsl-habitat-screen-final](https://user-images.githubusercontent.com/31927590/32994333-7f63159e-cd5d-11e7-8dee-876b6980ff36.png)    |
 | Countryside:   | col 2 is       | centered         |
 | Ocean:         | zebra stripes  | are neat         |
 | Rainforest:    | zebra stripes  | are neat         |
