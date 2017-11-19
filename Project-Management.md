@@ -21,7 +21,7 @@ Our first meeting with the client involeed a representative from ZSL visiting us
 |                | Before Feedback:        | After Feedback:           |
 | -------------- | -------------- |:----------------:|
 | Menu:          | ![zsl-habitat-screen](https://user-images.githubusercontent.com/31927590/32994252-61a2f278-cd5c-11e7-8b80-32b72ada6740.png)               | ![zsl-habitat-screen-final](https://user-images.githubusercontent.com/31927590/32994333-7f63159e-cd5d-11e7-8dee-876b6980ff36.png)    |
-| |
+|As you can see from the image above, the only real change was the top left graphic as the client felt that it was not a true representation of how the real habitat looks like.|
 | Countryside:   | col 2 is       | centered         |
 | Ocean:         | zebra stripes  | are neat         |
 | Rainforest:    | zebra stripes  | are neat         |
