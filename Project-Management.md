@@ -15,7 +15,7 @@ As you can see from the images below, we had an initial idea that we liked and t
 
 |Explination:| Concept art:|
 | -------------- | -------------- |
-|As you can see from the image to the right, we designed on paper an idea/storyboard of how we visioned the game to play| ![img_0542](https://user-images.githubusercontent.com/31927590/32982722-cfd365de-cc80-11e7-98b0-13f2187c9d9e.jpg "Concept Drawing")                |
+|As you can see from the image to the right, we designed on paper an idea/storyboard of how we visioned the game to play| ![concept design](https://user-images.githubusercontent.com/31927590/32996019-10a4f72c-cd75-11e7-9144-f2b94292943a.png)|
 
 |                | Before:        | After:           |
 | -------------- | -------------- |:----------------:|
