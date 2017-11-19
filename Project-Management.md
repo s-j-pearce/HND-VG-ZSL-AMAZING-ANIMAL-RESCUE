@@ -18,10 +18,11 @@ Our first meeting with the client involeed a representative from ZSL visiting us
 |We originally wanted to have an animation once the player clicked on the habitat that they wanted to play. it was going to be a simple animation that would enlarge the graphic so you can see it clearer whilst loading the buttons which are added in the image below.|![animation](https://user-images.githubusercontent.com/31927590/32996235-249363f6-cd78-11e7-8528-a12bcf8fc81e.PNG)|
 | |![habitat screen](https://user-images.githubusercontent.com/31927590/32996250-48c0be0e-cd78-11e7-9f4e-9c4c17edfc6b.PNG)|
 ### First initial designs:
-|                | Before Feedback:        | After Feedback:           |
+| Menu:               | Before Feedback:        | After Feedback:           |
 | -------------- | -------------- |:----------------:|
-| Menu:          | ![zsl-habitat-screen](https://user-images.githubusercontent.com/31927590/32994252-61a2f278-cd5c-11e7-8b80-32b72ada6740.png)               | ![zsl-habitat-screen-final](https://user-images.githubusercontent.com/31927590/32994333-7f63159e-cd5d-11e7-8dee-876b6980ff36.png)    |
-|As you can see from the image above, the only real change was the top left graphic as the client felt that it was not a true representation of how the real habitat looks like.|
+| As you can see from the image above, the only real change was the top left graphic as the client felt that it was not a true representation of how the real habitat looks like.| ![zsl-habitat-screen](https://user-images.githubusercontent.com/31927590/32994252-61a2f278-cd5c-11e7-8b80-32b72ada6740.png)               | ![zsl-habitat-screen-final](https://user-images.githubusercontent.com/31927590/32994333-7f63159e-cd5d-11e7-8dee-876b6980ff36.png)    |
+
+
 | Countryside:   | col 2 is       | centered         |
 | Ocean:         | zebra stripes  | are neat         |
 | Rainforest:    | zebra stripes  | are neat         |
