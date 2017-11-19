@@ -14,7 +14,7 @@ Our first meeting with the client involeed a representative from ZSL visiting us
 ### Concept Drawing:
 |Explination:| Concept art:|
 | -------------- | -------------- |
-|The selection screen was a combined design as we all had the same idea for this screen, we wanted it to be simplistic as well as asphetically appealing.| ![selection screen](https://user-images.githubusercontent.com/31927590/32996215-fbd55924-cd77-11e7-98f4-a6dcc7221d1f.PNG)|
+|The selection screen was a combined design as we all had the same idea for this screen, we wanted it to be simplistic as well as asphetically appealing. we wanted the player to be able to pick and choose from all 4 habitats and see a visual representation of each one.| ![selection screen](https://user-images.githubusercontent.com/31927590/32996215-fbd55924-cd77-11e7-98f4-a6dcc7221d1f.PNG)|
 |We originally wanted to have an animation once the player clicked on the habitat that they wanted to play. it was going to be a simple animation that would enlarge the graphic so you can see it clearer whilst loading the buttons which are added in the image below.|![animation](https://user-images.githubusercontent.com/31927590/32996235-249363f6-cd78-11e7-8528-a12bcf8fc81e.PNG)|
 | |![habitat screen](https://user-images.githubusercontent.com/31927590/32996250-48c0be0e-cd78-11e7-9f4e-9c4c17edfc6b.PNG)|
 ### First initial designs:
