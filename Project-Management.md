@@ -14,8 +14,9 @@ Our first meeting with the client involeed a representative from ZSL visiting us
 ### Concept Drawing:
 |Explination:| Concept art:|
 | -------------- | -------------- |
-|As you can see from the image to the right, we designed on paper an idea/storyboard of how we visioned the game to play.| |
-|The selection screen was a combined design as we all had the same idea for this screen, we wanted it to be simplistic as well as asphetically appealing.| ![concept design](https://user-images.githubusercontent.com/31927590/32996019-10a4f72c-cd75-11e7-9144-f2b94292943a.png)|
+|The selection screen was a combined design as we all had the same idea for this screen, we wanted it to be simplistic as well as asphetically appealing.| ![selection screen](https://user-images.githubusercontent.com/31927590/32996215-fbd55924-cd77-11e7-98f4-a6dcc7221d1f.PNG)|
+| |![animation](https://user-images.githubusercontent.com/31927590/32996235-249363f6-cd78-11e7-8528-a12bcf8fc81e.PNG)|
+| |![habitat screen](https://user-images.githubusercontent.com/31927590/32996250-48c0be0e-cd78-11e7-9f4e-9c4c17edfc6b.PNG)|
 ### First initial designs:
 |                | Before:        | After:           |
 | -------------- | -------------- |:----------------:|
