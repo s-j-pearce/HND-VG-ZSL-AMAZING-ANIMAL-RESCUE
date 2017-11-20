@@ -21,6 +21,17 @@ Our first meeting with the client involeed a representative from ZSL visiting us
 ## V. Concept Pitch (17th October 2017)
 
 
+Noted feedback:
+* Maze screen - want the chain to be the main feature/focus.
+* Show the whole cycle of each product.
+* Increase the difficulty of each maze.
+* Appeal to younger and older(different graphic options).
+* More detailed graphics(Rainforest).
+* Two different settings for different ages.
+* Want to see the full affect of the greenhouse gases.
+* Dont make the maze the full focus.
+* Come back to the maze after each chain.
+
 ## VI. Adapting to Feedback
 ### Designs:
 | Habitat selction screen:               | Before Feedback:        | After Feedback:           |
