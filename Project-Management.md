@@ -33,7 +33,7 @@ Our first meeting with the client involeed a representative from ZSL visiting us
 
 | Game Screen:               | Before Feedback:        | After Feedback:           |
 | -------------- | -------------- |:----------------:|
-| As you can see from the image above, the only real change was the top left graphic as the client felt that it was not a true representation of how the real habitat looks like.| ![zsl-habitat-screen](https://user-images.githubusercontent.com/31927590/32994252-61a2f278-cd5c-11e7-8b80-32b72ada6740.png)| ![zsl-habitat-screen-final](https://user-images.githubusercontent.com/31927590/32994333-7f63159e-cd5d-11e7-8dee-876b6980ff36.png)|
+| As you can see from the image above, the only real change was the top left graphic as the client felt that it was not a true representation of how the real habitat looks like.| ![zsl-game-screen](https://user-images.githubusercontent.com/31927590/33013769-13a112ea-cddd-11e7-9a8e-c43e99f727f8.png)| ![zsl-ocean-game-screen](https://user-images.githubusercontent.com/31927590/33014075-eacb21f2-cddd-11e7-9020-0d18243f677f.png)|
 
 ## VII. Production
 
