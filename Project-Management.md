@@ -37,7 +37,15 @@ As you can see from the feedback above, there were a few things that we needed t
 ## VI. Adapting to Feedback
 Below we will break down each point of feedback and explain how we adapted our designs and ideas for the game:
 1. "Maze screen - want the chain to be the main feature/focus" - After the presentation, we sat down and decided that it was best to remove the maze as a whole and make the chain the sole focus. By doing this it would dramatically reduce our work load as well as appeal more to what the client wants.
-2.
+2. "Show the whole cycle of each product." - Like in the above point, we were able to reach this outcome by making the chain the main focus of the game, this then allowed us to include the full chain which is what the client wanted.
+3. "Increase the difficulty of each maze." - Like the above two points, we completely removed the maze feature from the game which means this point no longer applies to the game.
+4. "Appeal to younger and older(different graphic options)." - We decided to leave this point to be one of the last things to work on as the client said they would like the option for this however it was not mandatory to do so.
+5. "More detailed graphics(Rainforest)." - After the presentation we worked to changing the rainforest graphic to make it look more realistic and belivable. This was a very straightfoward task and did not require each member to work on so it was done quickly by one member whilst the others worked on implimenting other features.
+6. "Two different settings for different ages." - This feedback is basically the fourth point where the client suggested that we make a option to change the graphics depending on the age of the players. we put this at the bottom of our priorities because like mentioned above, it was only a suggestion not a mandatory feature.
+7. "Want to see the full affect of the greenhouse gases." - We planned to have the graphic elements of the game change as they completed the chain. This would have provided a visual representation of how the affects of each stage change our planet which would hopefully trigger a realisation for the player.
+8. "Dont make the maze the full focus." - Like in the first point, we completly removed the maze so that we could make the chain the main focus, this would in turn get the message to the player quicker and more efficently.
+9. "Come back to the maze after each chain." - We had the idea to possibly incorperate the maze back in the game if we had time however we did not get around to doing so as we felt the chain provided the correct amount of play time for each habitat.
+
 
 ### Visual adaptions:
 | Habitat selction screen:               | Before Feedback:        | After Feedback:           |
