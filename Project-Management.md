@@ -32,10 +32,10 @@ Noted feedback:
 * Dont make the maze the full focus.
 * Come back to the maze after each chain.
 
-As you can see from the feedback above, there were a few things that we needed to do straight away and a few things that were suggested that were not so important. The client suggested that we make the main focus the chain instead of the maze idea, this was the main focus that we had after the meeting. the other comments about the graphics and the setting for two different age options was more of a suggestion if we had time, the allowed us to fully focus on the chain concept and if we had time, we could possibly impliment the option for two different age groups.
+As you can see from the feedback above, there were a few things that we needed to do straight away and a few things that were suggested that were not so important. The client suggested that we make the main focus the chain instead of the maze idea, this was the main focus that we had after the meeting. the other comments about the graphics and the setting for two different age options was more of a suggestion if we had time, this allowed us to fully focus on the chain concept and if we had time, we could possibly impliment the option for two different age groups.
 
 ## VI. Adapting to Feedback
-### Designs:
+### Visual adaptions:
 | Habitat selction screen:               | Before Feedback:        | After Feedback:           |
 | -------------- | -------------- |:----------------:|
 | As you can see from the image above, the only real change was the top left graphic as the client felt that it was not a true representation of how the real habitat looks like.| ![zsl-habitat-screen](https://user-images.githubusercontent.com/31927590/32994252-61a2f278-cd5c-11e7-8b80-32b72ada6740.png)| ![zsl-menu-final](https://user-images.githubusercontent.com/31927590/33014287-beb31e0c-cdde-11e7-985c-0ba86f1f630b.png)|
