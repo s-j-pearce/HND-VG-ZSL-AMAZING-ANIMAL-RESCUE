@@ -50,11 +50,11 @@ Below we will break down each point of feedback and explain how we adapted our d
 ### Visual adaptions:
 | Habitat selction screen:               | Before Feedback:        | After Feedback:           |
 | -------------- | -------------- |:----------------:|
-| As you can see from the image above, the only real change was the top left graphic as the client felt that it was not a true representation of how the real habitat looks like.| ![zsl-habitat-screen](https://user-images.githubusercontent.com/31927590/32994252-61a2f278-cd5c-11e7-8b80-32b72ada6740.png)| ![zsl-menu-final](https://user-images.githubusercontent.com/31927590/33014287-beb31e0c-cdde-11e7-985c-0ba86f1f630b.png)|
+| As you can see from the images to the right, the only real change was the top right graphic as the client felt that it was not a true representation of how the real habitat looks like.| ![zsl-habitat-screen](https://user-images.githubusercontent.com/31927590/32994252-61a2f278-cd5c-11e7-8b80-32b72ada6740.png)| ![zsl-menu-final](https://user-images.githubusercontent.com/31927590/33014287-beb31e0c-cdde-11e7-985c-0ba86f1f630b.png)|
 
 | Rainforest graphic:               | Before Feedback:        | After Feedback:           |
 | -------------- | -------------- |:----------------:|
-| As you can see from the image above, the only real change was the top left graphic as the client felt that it was not a true representation of how the real habitat looks like.| ![zsl-jungle](https://user-images.githubusercontent.com/31927590/33013646-a70ff466-cddc-11e7-90c0-39b75b71b5a6.png)| ![zsl-jungle-recovered](https://user-images.githubusercontent.com/31927590/33013662-c0e8f7fc-cddc-11e7-8954-cce5c5a0d505.jpg)|
+| Like above, the rainforest graphic was the main change of the visual elements, the client said that it was too unrealistic as it did not look dense enough| ![zsl-jungle](https://user-images.githubusercontent.com/31927590/33013646-a70ff466-cddc-11e7-90c0-39b75b71b5a6.png)| ![zsl-jungle-recovered](https://user-images.githubusercontent.com/31927590/33013662-c0e8f7fc-cddc-11e7-8954-cce5c5a0d505.jpg)|
 
 | Game Screen:               | Before Feedback:        | After Feedback:           |
 | -------------- | -------------- |:----------------:|
