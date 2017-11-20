@@ -19,7 +19,7 @@ Our first meeting with the client involeed a representative from ZSL visiting us
 |As you can see from the image to the right, we wanted the habitat that you selected to enlarge enough to see more detail but we also wanted the player to still be able to see the other habitats under it. We did not want the selected habitat to take over the whole screen.|![habitat screen](https://user-images.githubusercontent.com/31927590/32996250-48c0be0e-cd78-11e7-9f4e-9c4c17edfc6b.PNG)|
 
 ## V. Concept Pitch (17th October 2017)
-
+For our concept pitch, we traveled to ZSL Whipsnade to meet with the client. Before the meeting we had created a short powerpoint presentation with an idea of how we visioned the game as well as a few concept art designs to show where we wanted each element to go. Once the presentation was over we asked for feedback and questions to help us improve our idea and vision for the game. Below is a list of the feedback we recieved after the presentation.
 
 Noted feedback:
 * Maze screen - want the chain to be the main feature/focus.
