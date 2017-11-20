@@ -32,6 +32,8 @@ Noted feedback:
 * Dont make the maze the full focus.
 * Come back to the maze after each chain.
 
+As you can see from the feedback above, there were a few things that we needed to do straight away and a few things that were suggested that were not so important. The client suggested that we make the main focus the chain instead of the maze idea, this was the main focus that we had after the meeting. the other comments about the graphics and the setting for two different age options was more of a suggestion if we had time, the allowed us to fully focus on the chain concept and if we had time, we could possibly impliment the option for two different age groups.
+
 ## VI. Adapting to Feedback
 ### Designs:
 | Habitat selction screen:               | Before Feedback:        | After Feedback:           |
