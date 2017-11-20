@@ -54,7 +54,7 @@ Below we will break down each point of feedback and explain how we adapted our d
 
 | Rainforest graphic:               | Before Feedback:        | After Feedback:           |
 | -------------- | -------------- |:----------------:|
-| Like above, the rainforest graphic was the main change of the visual elements, the client said that it was too unrealistic as it did not look dense enough| ![zsl-jungle](https://user-images.githubusercontent.com/31927590/33013646-a70ff466-cddc-11e7-90c0-39b75b71b5a6.png)| ![zsl-jungle-recovered](https://user-images.githubusercontent.com/31927590/33013662-c0e8f7fc-cddc-11e7-8954-cce5c5a0d505.jpg)|
+| Like above, the rainforest graphic was the main change of the visual elements, the client said that it was too unrealistic as it did not look dense enough. To improve the overall look of this graphic we increased the density by downloading a few free brushes which allowed us to get a better looking design.| ![zsl-jungle](https://user-images.githubusercontent.com/31927590/33013646-a70ff466-cddc-11e7-90c0-39b75b71b5a6.png)| ![zsl-jungle-recovered](https://user-images.githubusercontent.com/31927590/33013662-c0e8f7fc-cddc-11e7-8954-cce5c5a0d505.jpg)|
 
 | Game Screen:               | Before Feedback:        | After Feedback:           |
 | -------------- | -------------- |:----------------:|
