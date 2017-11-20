@@ -58,7 +58,7 @@ Below we will break down each point of feedback and explain how we adapted our d
 
 | Game Screen:               | Before Feedback:        | After Feedback:           |
 | -------------- | -------------- |:----------------:|
-| As you can see from the image above, the only real change was the top left graphic as the client felt that it was not a true representation of how the real habitat looks like.| ![zsl-game-screen](https://user-images.githubusercontent.com/31927590/33013769-13a112ea-cddd-11e7-9a8e-c43e99f727f8.png)| ![zsl-ocean-game-screen](https://user-images.githubusercontent.com/31927590/33014075-eacb21f2-cddd-11e7-9020-0d18243f677f.png)|
+| With the original concept art we felt that it looked a little too cartoony. With the major change being the removal of the maze we decided to make the elements appeal to the client more, in order to do so we needed to add a lot more information on the screena about the chain.| ![zsl-game-screen](https://user-images.githubusercontent.com/31927590/33013769-13a112ea-cddd-11e7-9a8e-c43e99f727f8.png)| ![zsl-ocean-game-screen](https://user-images.githubusercontent.com/31927590/33014075-eacb21f2-cddd-11e7-9020-0d18243f677f.png)|
 
 ## VII. Production
 
