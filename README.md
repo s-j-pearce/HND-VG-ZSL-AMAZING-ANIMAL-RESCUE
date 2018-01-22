@@ -91,13 +91,13 @@ materials
 ## I. Project Overview
 We have been contracted by ZSL (Zoological Society of London) to design and produce an educational game based around the greenhouse gas chain for 4 different products, Plastic Bottles, Mobile Phones, Beef and Electronics that are left on stand-by. The game is to be used in classes the ZSL run at London Zoo for 11-16 year olds, the first of which will be run on the 14th November 2017. We will be having regular meetings with the client to collect feedback on our ideas and keep the client satisfied.
 ### Cost:
-
+The cost of the project was only the amount of time it took us to complete.
 ### Scope:
-
+Our client wanted us to develop an application which was very interactive for 11-16 year old's
 ### Time:
-
+We had around 5 weeks in total to complete the project. We had just over 2 weeks to complete all of the required design documentation. Within the first 2 weeks we also needed to complete a proposal to demonstrate and show the client our idea. The 3rd and 4th week were used for the development and construction of the application and the last week was used for testing and finalizing the application.
 ### Quality:
-
+As the project was for a serious client with a need to use for actual consumers, the quality needed to be high quality and nothing less. Throughout the development process we worked to make sure that the application came across as professional and looked high quality.
 ### Communication:
 
 ### Risk and resources:
