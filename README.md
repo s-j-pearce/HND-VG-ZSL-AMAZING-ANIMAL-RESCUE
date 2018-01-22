@@ -99,7 +99,7 @@ We had around 5 weeks in total to complete the project. We had just over 2 weeks
 ### Quality:
 As the project was for a serious client with a need to use for actual consumers, the quality needed to be high quality and nothing less. Throughout the development process we worked to make sure that the application came across as professional and looked high quality.
 ### Communication:
-
+Throughout the project it was imperetive that we had good communication whilst creating the application. from the design documentation to the testing phase, we needed to make sure that we all kept up to date with each
 ### Risk and resources:
 
 ## II. First Client Meeting (2nd October 2017)
