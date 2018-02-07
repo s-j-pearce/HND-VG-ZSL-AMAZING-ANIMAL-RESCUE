@@ -108,7 +108,16 @@ There were a few things in relation to cost in order to complete the project.
 * Another cost is internet, as we were developing the game at college, we would not be able to find out the cost of the internet.
 * The final cost is travel, as we used a minibus to get from college to ZSL we do not know exactly how much it cost to hire out the minibus for the needed trips and time.
 ### Scope:
-Our client wanted us to develop an application which was very interactive for 11-16 year old's
+For this project we wanted to greate a fun interactive game that was designed for the required age range. as we had a very limited time to build and develop the game we needed to make things a lot more simpler in order to meet the deadline as well as stay in the scope of the project. There were a few things that we wanted to do that we know we did not have enough time or skill to impliment in time:
+* Mulitplayer capabilities
+* Social media connections
+* A Competetive scoring system
+* Review system for scores
+As these were a few ideas that we had in place we had to sub them out and change them to fit the scope, this meant that we had to make these changes:
+* The game would not be multiplayer, however multiple people could take it in turns to have a go
+* The game would not be connected to any social media due to limitations and security issues
+* The scoring system would have to be done manually, the teams would just have to work together to beat the game the fastest
+* Once the students have completed the game they would have to advice the teacher or staff their time in order to compete against the other groups/teams.
 ### Time:
 We had around 5 weeks in total to complete the project. We had just over 2 weeks to complete all of the required design documentation. Within the first 2 weeks we also needed to complete a proposal to demonstrate and show the client our idea. The 3rd and 4th week were used for the development and construction of the application and the last week was used for testing and finalizing the application.
 ### Quality:
