@@ -91,7 +91,12 @@ materials
 ## I. Project Overview
 We have been contracted by ZSL (Zoological Society of London) to design and produce an educational game based around the greenhouse gas chain for 4 different products, Plastic Bottles, Mobile Phones, Beef and Electronics that are left on stand-by. The game is to be used in classes the ZSL run at London Zoo for 11-16 year olds, the first of which will be run on the 14th November 2017. We will be having regular meetings with the client to collect feedback on our ideas and keep the client satisfied.
 ### Cost:
-The cost of the project was only the amount of time it took us to complete.
+There were a few things in relation to cost in order to complete the project. 
+* The first thing we will look at is time, as we were working for free the cost for our time equates to £0.
+* The second thing that 'cost' money is the systems used. in order for us to develp the system effectivly, we needed to have a system that could withstand our needs/requirements. The systems that we used at college are around £1500 including the screens and peripherals. This so far brings our cost to £6000 as there were 4 of us in a group.
+* The next cost is software. The main software used to develop the game itself was **Unit**, unity cost around £130 per person for a pro license, this means that unity cost £520 for the 4 of us to all develop the game. The next software that we used was photoshop, photoshop is part of adobe, in order to gain acces to adobe's applications you need to pay around £40 a month, this means that photoshop cost around £480, this is for 4 people over the course of 3 months.
+* Another cost is internet, as we were developing the game at college, we would not be able to find out the cost of the internet.
+* The final cost is travel, as we used a minibus to get from college to ZSL we do not know exactly how much it cost to hire out the minibus for the needed trips and time.
 ### Scope:
 Our client wanted us to develop an application which was very interactive for 11-16 year old's
 ### Time:
@@ -101,9 +106,14 @@ As the project was for a serious client with a need to use for actual consumers,
 ### Communication:
 Throughout the project it was imperetive that we had good communication whilst creating the application. from the design documentation to the testing phase, we needed to make sure that we all kept up to date with each other in order to stay on the same page, this helped the project come along as we all knew what the ideal outcome or finished project was.
 ### Risk:
-
+The risk of this project is reputation, as it was our first client we needed to make a good lasting impression for them so that they would want to work with us again in the future. having a a good reputation for a first project could also pave the way for other clients to come in and want to work with us so it was imperative that we did a good job.
 ### Resources:
-
+There were a number of resources needed to complete the project, below is a list of the resources:
+* System/Pc to develop on
+* Internet Access
+* Unity pro
+* Adobe(photoshop)
+* Microsoft Office (PowerPoint, Word, Excel)
 ## II. First Client Meeting (2nd October 2017)
 Our first meeting with the client involeed a representative from ZSL visiting us and giving a presentation about what they wanted us to create for them. The information given to us included:
 
