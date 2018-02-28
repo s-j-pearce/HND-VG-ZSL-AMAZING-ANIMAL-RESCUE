@@ -100,6 +100,14 @@ We have been contracted by ZSL (Zoological Society of London) to design and prod
 2. To finish all of the proposal documentation by monday 16th October 2017
 3. To finish the development and building of the game by Sunday 29th October 2017
 4. To make sure the game has been tested and is ready for shipping to the clinet by Monday 6th November 2017
+#### User and software Requirements:
+* Educational game
+* Fun and interactive game
+* Multi-user friendly
+* simplistic/intuitive interface
+* Child friendly
+* Short and sweet
+* Compatible with an Ipad
 ### Cost:
 There were a few things in relation to cost in order to complete the project. 
 * The first thing we will look at is time, as we were working for free the cost for our time equates to £0.
