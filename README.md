@@ -147,6 +147,33 @@ Our first meeting with the client involeed a representative from ZSL visiting us
 ## III. Schedule/Plan
 ![zsl-gant-chart](https://user-images.githubusercontent.com/31927590/32982650-aa66be46-cc7f-11e7-812b-7c7ca76f7c94.PNG)
 
+### Work Breakdown structure:
+#### Epics:
+1. To create a fun application
+2. To make it interactive
+3. To educate the students
+4. To raise awareness
+#### User stories:
+##### 1. (To create a fun application):
+* As a user i want to be able to navigate through the application easily.
+* As a user i would like to be able to be able to keep track of my progress through the app
+* As a user i would like there to be lots of colourful aspects of the application
+##### 2. (to make it interactive):
+* As a user i would like to be able to go back to previous pages
+* As a user i want to be able to read all of the information
+* As a user i would like the interface to be easy to use
+* As a user i would like the buttons to be big enough for me to see and press
+##### 3. (To educate the students):
+* As a user i would like to stay engaged whilst using the app
+* As a user i would like to be given cool facts as i use the app
+* As a user i want to be able to know how i can make a change
+* As a user i want to see lots of images and not just text
+##### 4. (To raise awareness):
+* As a user i would like to be able to say how im going to make a change
+* As a user i would like to be able to pledge to make a difference
+* As a user i would like to know what affect im having on the animals 
+* As a user i would like to know what affect im having on the planet
+* As a user i would like to be able to see how i can change the green house gas affect
 ## IV. Designing
 ### Concept Drawing:
 |Explination:| Concept art:|
