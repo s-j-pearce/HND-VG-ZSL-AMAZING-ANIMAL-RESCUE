@@ -148,6 +148,13 @@ Our first meeting with the client involeed a representative from ZSL visiting us
 ![zsl-gant-chart](https://user-images.githubusercontent.com/31927590/32982650-aa66be46-cc7f-11e7-812b-7c7ca76f7c94.PNG)
 
 ### Work Breakdown structure:
+#### What are epics and user stories:
+##### Epics:
+A Scrum epic is basically a larger user story. It can also be described as a big chunk of work that has one common objective. It could be a feature, customer request or business requirement. It is the bigger picture of something. For instance, with ZSL they came to us and asked us to design and build an interactive application which will help educate students on the affect we are having on the green house gas chain. Now we can take that request and turn it into a couple of epics, for example "As a user i want to be able to learn about the affects i have on the greenhouse gas chain in this application" now from that epic we can then break that down further to give us what are known as user stories.
+##### User stories:
+A user story is simply something a user wants. However think of these stories as going towards an overall goal. For instance when we discussed epics above we said how the client came to us and said "design and build an interactive application which will help educate students on the affect we are having on the green house gas chain". We took what they asked and turned it into a epic which was "As a user i want to be able to learn about the affects i have on the greenhouse gas chain in this application". From that epic we can break that down into more managable tasks or 'User stories'. As an example, we could create a user story which states "As a user i would like to see what affect im having". Now if we translate that to a task, it would look something like this: Make an interactive page where the user is shown how much greenhouse gas they make by using specific items. By breaking down the epics into smaller scaled user stories we can manage these tasks and make the workload easier.
+##### Below is a graphical representation of the agile method:
+![aaeaaqaaaaaaaajbaaaajgjlnjc4zwy1lwe0mmytndnlos1izdmxlwm2zjuxmgzjodywyq](https://user-images.githubusercontent.com/31927590/37670484-53eb3546-2c61-11e8-9f4c-208ec9195f2e.png)
 #### Epics:
 1. To create a fun application
 2. To make it interactive
