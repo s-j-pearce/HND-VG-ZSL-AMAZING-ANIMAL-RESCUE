@@ -237,4 +237,6 @@ Below we will break down each point of feedback and explain how we adapted our d
 
 ## IX. Final Product Presentation (7th November 2017)
 
-## X. Review
+## X. Evaluation:
+### User and software requirments:
+In order for us to meet the user and software requirements we  used a methodology called agile. This method allowed us to break down the project into smaller managable tasks whilst making sure that all of the requirements were met. The agile method used epics and user stories in order for us to break down each requirement. for instance, one of the requirements was for the application to be eduational, we broke that down into a couple of user stories. 
