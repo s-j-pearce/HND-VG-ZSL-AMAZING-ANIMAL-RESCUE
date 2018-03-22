@@ -192,6 +192,16 @@ On the 17th of October, We will be going to ZLS whipsnade zoo to deliver our con
 
 *Demo Presentation - 7th of November 2017*
 On the 7th of November, we will be going again to ZSL whipsnade zoo to demo our working product to the client. For this we will create another powerpoint that shows the client how to play the game, we will also be allowing the client representatives to play the game on iPads while we present so that they can follow us through the presentation and get a feel for what we are showing.
+
+#### Problems Solving Techniques Used:
+##### Contingency Plans:
+As a contingency plan, incase there were any problems with the computers that could prevent us from showing our presentation, we have printed out handouts to give to everyone that includes all of the relevent images and information. This enables us to still provide them with a good representation of what the game will contain and how it will look even if we cannot use the presentation to show this. We will also have with us back-ups of our presentation on multiple USB drives so that if one gets corrupted or the USB itself is lost or damaged, we will still have access to a copy. We have online back-ups also, however we cannot guarantee internet access at the pitch so a local copy was deemed necessary.
+
+##### Trial and Error:
+When we arrived at ZSL we had to use our USB copy of the presentation to load from due to issues with google slides. However when we inserted our USB there was an error. We quickly decided that trial and error would be the best way to try and resolve this problem as fast as possible. We first tried to repair the USB using the windows tools however this was did not work. Secondly we tried a different USB port on the computer but the same error happened again. Finally, after this trial and error we decided to try out back up USB. This worked correctly and we were able to begin the presentation.
+
+##### Problem Breakdown:
+We encountered an iussue with out presentation in that some of our graphics were not displaying correctly when we viewed the presentation. so we thought that the best course of action was to breakdown the problem and try to find why this error was occouring. firstly we cheked to make sure that the the image files we used were displying correctly using a normal image viewer, they were, so the files being corrupted were not an issue. After breaking down the problem further we discovered that we had issues with the transparency of the image in powerpoint itself and we easily rectified the situation, once this was fixed we were able to start the presentation.
 ## IV. Designing
 ### Concept Drawing:
 |Explination:| Concept art:|
