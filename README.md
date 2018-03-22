@@ -191,8 +191,34 @@ A user story is simply something a user wants. However think of these stories as
 
 ## V. Concept Pitch (17th October 2017)
 For our concept pitch, we traveled to ZSL Whipsnade to meet with the client. Before the meeting we had created a short powerpoint presentation with an idea of how we visioned the game as well as a few concept art designs to show where we wanted each element to go. Once the presentation was over we asked for feedback and questions to help us improve our idea and vision for the game. Below is a list of the feedback we recieved after the presentation.
+### Preparation:
+Before we presented our pitch to ZSL we worked together to divide the work up. Between the 4 of us we worked out who should do what in preparation. Below is a breakdown of everyones individual tasks:
+#### Myself and ryan(Powerpoint):
+Myself and ryan were responsible for the powerpoint as well as the concept art. For the presentation i worked mainly on the concept art and making sure it looked how they wanted as well as making sure it was a clear representation of our idea. Ryan was more focused on the layout of the powerpoint and adding the information into the slides. The reason we had 2 people working on this area was because it was the focal point of the presentation and we needed to make sure that it was completed in time as well as to a standard that we would be proud to present.
+#### Mark(Script/notes):
+Mark was responsible for the creation of the script as he would be the one standing up and giving the presentation. Mark needed to work closely with ryan also to make sure that they both knew what needed to go where and what needed to be said. Although mark created a script for the event, he would not be able to read from it during the actual presentation, this meant that on occasions we would go into a presentation room s a group and go through what is going to be said as well as make any improvements or adjustments.
+#### George(Handouts):
+George was responsible for making the handouts to give to everyone at the beginning of the presentation. The handouts included some key information that was on the powerpoint however we wanted to make sure that the main focus was on the presentation so it was a skimmed down version. George worked closely with ryan and mark to make sure that he had all the correct and relevant information on the handouts.
 
-Noted feedback:
+### Communication styles:
+#### Verbal and visual:
+the concept pitch will consist of a power point presentation that Mark will stand up and present to ZSL. The powerpoint will have basic images as well as notes for the client to look at while he gives the talk about our game. He will be explaining to the client our ideas and giving them more information and details to complement what they are seeing on screen.
+
+###### Concept art(visual)
+Included in the powerpoint will be some concept images for the main menu of the game as well as some images of what the game screen could look like. This was to give the client a visual representation of what they can expect the game to look like. We can use this opportunity to collect feedback on what they like and what they don't like and make changes once we get back together and discuss in order to find out how best to move foward.
+
+###### Features:
+Also included is information on the features and mechanics of the game. this was because we are not giving them a demo of the game we have more concept images that can be used to show them how the game will function. For example, we will have to show the client how the player will move the characters so we will be using diagrams to show the different actions the player will have to do (e.g. Pinch, tap) in order to perform each funtion. This way if the client had any changes that they would want us to make we would be able to impliment them into the final product.
+
+#### Written:
+##### Handouts:
+For the presentation we will also be providing handouts to the members of ZSL that are present at the concept pitch for them to keep. These handouts will have the same information on them as the powerpoint, but having a physical copy allows the representative to refer back to the presentation even after we have finished and enables them to share our ideas with people that wern't present at the meeting.
+
+#### Body Language:
+##### Gesture and Movement:
+During the presentation Mark will be walking around whilst presenting so he will be the one who needs to focus on this the most however, whilst we are all sitting down watching the presentation it is important that we all sit up straight and show that we are paying attention. By doing this we will show that we are professionals.
+
+##### Noted feedback:
 * Maze screen - want the chain to be the main feature/focus.
 * Show the whole cycle of each product.
 * Increase the difficulty of each maze.
