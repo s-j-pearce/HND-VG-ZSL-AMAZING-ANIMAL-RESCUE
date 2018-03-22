@@ -22,8 +22,7 @@ The game is a 2D, top down, educational puzzle solving game.
 - Tocuh Screen Support
 
 ## V. Platform
-
-The game will be built as a web based app. This means that any device that has a compatable browser installed will be able to play the game. However, as requested by ZSL, the game will be optimised to run on iPad devices for use in their classes.
+The game will be built as a web based app. This means that any device that has a compatable browser installed will be able to play the game. However, as requested by ZSL, the game will be optimised to run on iPad devices for use in their classes. We originally thought that an actual app would allow for a smoother experience however the dilemia would be that you need a developer licence in order to first publish the app so other devices can install it. In order To develop for iOS we must aquire a Apple developer license that costs roughly £70 and neither us or ZSL could commit the funds to obtain this license, which would leave us unable to develop for iOS therefore the app would not be usable on iPads, which was a key requirement. This led us to come up with our final solution, which was to make the game web based. A web based game would allow multiple platforms including iPads, to access and llay the game without having to make multiple versions for each operating system and after we consulted with ZSL, this was agreed to be the best solution.
 
 ## Included Text
 
