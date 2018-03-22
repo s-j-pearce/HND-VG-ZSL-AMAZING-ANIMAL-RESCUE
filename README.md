@@ -181,6 +181,17 @@ A user story is simply something a user wants. However think of these stories as
 * As a user i would like to know what affect im having on the animals 
 * As a user i would like to know what affect im having on the planet
 * As a user i would like to be able to see how i can change the green house gas affect
+##### What times are we available:
+In order to manage our time effectively we first needed to have a team meeting about what times everyone is available for this project. We knew that all of us were able to work on the project on Mondays, Tuesdays and Wednesday however all our members have other work commitments outside of college. Saturday and Sunday were ruled out as all of us worked over the weekend, this left Thursday and Friday. Thankfully only myself was unavailable on Thursdays so we could use all of Friday for outside work and Mark, Ryan and George could work on Thursday if it was required.
+##### Deadlines:
+*First Client Meeting - 2nd of October 2017*
+On the 2nd of October, a representative from ZSL will be coming into the college to give a presentation on what they want from us. This will include information of what needs to be included in the game, what the game should look like, the genre of game, the target audience and the date for completion.
+
+*Concept Pitch - 17th of October 2017*
+On the 17th of October, We will be going to ZLS whipsnade zoo to deliver our concept and ideas for the app we have designed. For this we have created a powerpoint presentation that demonstrates the features that the app will have and how it will look. It will include concept art of the main menu as well as some in game concepts.
+
+*Demo Presentation - 7th of November 2017*
+On the 7th of November, we will be going again to ZSL whipsnade zoo to demo our working product to the client. For this we will create another powerpoint that shows the client how to play the game, we will also be allowing the client representatives to play the game on iPads while we present so that they can follow us through the presentation and get a feel for what we are showing.
 ## IV. Designing
 ### Concept Drawing:
 |Explination:| Concept art:|
