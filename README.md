@@ -107,6 +107,8 @@ We have been contracted by ZSL (Zoological Society of London) to design and prod
 * Child friendly
 * Short and sweet
 * Compatible with an Ipad
+## Project management plan:
+During this project we will be using a project management method called 'SCRUM'. Scrum is used by businesses and companies to help manage small teams of people. A scrum team usually consists of around six to seven people who work together in short bursts of activity called sprints, with plenty of time for review and reflection. We use scrum to break down the project into 'epics' these are the main points of the project. Once we have the epics then we break them down into user stories, these user stories are what the client or user wants out of the project. The user stories can then be further broken down into tasks which help the members of the team keeo track of what is needed to get done.
 ### Cost:
 There were a few things in relation to cost in order to complete the project. 
 * The first thing we will look at is time, as we were working for free the cost for our time equates to £0.
