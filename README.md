@@ -251,6 +251,10 @@ During the presentation Mark will be walking around whilst presenting so he will
 
 As you can see from the feedback above, there were a few things that we needed to do straight away and a few things that were suggested that were not so important. The client suggested that we make the main focus the chain instead of the maze idea, this was the main focus that we had after the meeting. the other comments about the graphics and the setting for two different age options was more of a suggestion if we had time, this allowed us to fully focus on the chain concept and if we had time, we could possibly impliment the option for two different age groups.
 
+## Quantitative Research (Survey)
+
+## Qualatative Research (Client Feedback)
+
 ## VI. Adapting to Feedback
 Below we will break down each point of feedback and explain how we adapted our designs and ideas for the game:
 1. "Maze screen - want the chain to be the main feature/focus" - After the presentation, we sat down and decided that it was best to remove the maze as a whole and make the chain the sole focus. By doing this it would dramatically reduce our work load as well as appeal more to what the client wants.
