@@ -339,6 +339,22 @@ Below we will break down each point of feedback and explain how we adapted our d
 | With the original concept art we felt that it looked a little too cartoony. With the major change being the removal of the maze we decided to make the elements appeal to the client more, in order to do so we needed to add a lot more information on the screena about the chain.| ![zsl-game-screen](https://user-images.githubusercontent.com/31927590/33013769-13a112ea-cddd-11e7-9a8e-c43e99f727f8.png)| ![zsl-ocean-game-screen](https://user-images.githubusercontent.com/31927590/33014075-eacb21f2-cddd-11e7-9020-0d18243f677f.png)|
 
 ## VII. Tools and Techniques:
+### Tools:
+#### Photoshop:
+Adobe photoshop was used to create all of the graphical features for the application. By creating our own graphical designs, we saved a lot of momey as we would not need to spend money on purchasing assets. For our first prototype of the game we used photoshop to create the maze graphic which was our first idea however later in the development process we opted to not continue with maze idea.
+#### Github:
+Github was and is being used for us to store and write up any documentation for our projects. As the group was not always together we needed a way to send and store documents, files and information that one another might need. Github allowed us to upload work for each other so we could make progress even when we were not all together. We used github as a main glossary for all the documentation for ZSL.
+#### Unity:
+Unity was the main software that we used to create our application. Unity has a very helpful feature where it allows multiple users to edit and make changes to the same project at the same time, it also allows the user to save and upload the changes to the cloud save so everyone can see the most up to date version. Unity was very simple and easy for everyone to get a hang off so we found it perfect.
+#### PowerPoint:
+Powerpoint was used to create all of our presentations for ZSL. We used it firstly when Michelle from ZSL came in to see our initial ideas and how we visioned the application. We also used powerpoint in order to create our final presentation for ZSL. The main reason for using powerpoint was because it is very simple and easy to use. We also used powerpoint as it has online features where everyone can edit the presentation and make changes, this helped to make sure that all of us could input to the final presentation.
+### Techniques:
+#### Interviews:
+When dealing with ZSL we had multiple interviews. Our first interview was when Michelle came and pitched the idea for the game to us for what she wanted. During the interview we took notes and pitched some ideas that we had at the time. The other interview that we had was when we pitched the final version of our game to ZSL and the BBC.
+#### Prototyping:
+When developing the application we made sure to use prototypes within Unity, This is so that testing could take place once we had finished completing some sections of code. Whilst developing we also loaded up seperate Unity windows to test certain parts in order to see if each part was working. This also allowed us to put the application together and to make finding any problems easier.
+#### Presentations:
+We used presentations in order to show ZSL and michelle the work we had done. Presentations help to get peoples attention as it allows people to have a visual touch to a speach. Whilst presenting we would use our body language as well as speaking skills to help present and get your views across.
 
 ## VIII. Testing
 
