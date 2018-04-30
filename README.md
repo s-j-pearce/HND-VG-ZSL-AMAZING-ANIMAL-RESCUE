@@ -198,16 +198,16 @@ A user story is simply something a user wants. However think of these stories as
 | Task    | Group Member         | Time Allocated               | Completed                      |
 |----------------------------------------------------------|-----------------|----------------------|--------------------------------|
 | Creation of Power Point | Ryan / Mark | 2 Hours | Yes | 
-| Scripts  |    Sam  |     1 Hour 30 Minutes   |   Yes     | 
-| Handouts |  George   |   1 Hour    |      Yes       |
-| Finalize Concept Pitch Ready For The Presentation   |   Whole Group |      1 hour    |  Yes    |                   
+| Write Scripts  |    Sam  |     1 Hour 30 Minutes   |   Yes     | 
+| Create Handouts |  George   |   1 Hour    |      Yes       |
+| Finalize Concept Pitch Ready For The Presentation for ZSL   |   Whole Group |      1 hour    |  Yes    |                   
 | Practice Run Though Of Pitch   |   Whole Group |      25 Minutes    |  Yes    |
 
 ##### Sprint 3 - 17/10/2017 Development 
 
 | Task    | Group Member         | Time Allocated               | Completed                      |
 |----------------------------------------------------------|-----------------|----------------------|--------------------------------|
-| Start On The Coding   |   Mark / Ryan |      1 Week    |  Yes    |
+| Start On The Coding the application   |   Mark / Ryan |      1 Week    |  Yes    |
 | Start On The Graphics   |   Sam |      1 Week    |  Yes    |
 | Create the Infomation That Will Be In The Game   |   George |     1 Week    |  Yes    |
 | Connect all scenes   |   Whole Group |      2 hour    |  Yes    |
@@ -216,10 +216,10 @@ A user story is simply something a user wants. However think of these stories as
 
 | Task    | Group Member         | Time Allocated               | Completed                      |
 |----------------------------------------------------------|-----------------|----------------------|--------------------------------|
-| Making Sure Touch And Drag Works   |   Sam |      20 Minutes    |  Yes    |
-| Making Sure Home Screen Works   |   Mark |      20 Minutes    |  Yes    |
-| Compatible With Browser   |   Ryan |      20 Minutes    |  Yes    |
-| Tweaking   |   Whole Group |      1 hour    |  Yes    |
+| Testing to make Sure Touch And Drag Works   |   Sam |      20 Minutes    |  Yes    |
+| Testing to make Sure Home Screen Works   |   Mark |      20 Minutes    |  Yes    |
+| Compatible With the chosen browser from ZSL   |   Ryan |      20 Minutes    |  Yes    |
+| Tweaking and final parts to the application  |   Whole Group |      1 hour    |  Yes    |
 
 ##### What times are we available:
 In order to manage our time effectively we first needed to have a team meeting about what times everyone is available for this project. We knew that all of us were able to work on the project on Mondays, Tuesdays and Wednesday however all our members have other work commitments outside of college. Saturday and Sunday were ruled out as all of us worked over the weekend, this left Thursday and Friday. Thankfully only myself was unavailable on Thursdays so we could use all of Friday for outside work and Mark, Ryan and George could work on Thursday if it was required.
