@@ -183,7 +183,7 @@ A user story is simply something a user wants. However think of these stories as
 * As a user i would like to know what affect im having on the planet
 * As a user i would like to be able to see how i can change the green house gas affect
 #### Sprints:
-##### Sprint 1 - 3/10/2017 - Design Documentation
+##### Sprint 1 - 3/10/2017 - Design Documentation:
 
 | Task    | Group Member         | Time Allocated               | Completed                      |
 |----------------------------------------------------------|-----------------|----------------------|--------------------------------|
@@ -197,7 +197,7 @@ A user story is simply something a user wants. However think of these stories as
 | Design documentation complete | 03/10/17 | 13 days | 100% |
 
 
-##### Sprint 2 - 09/10/2017 - Complete Proposal
+##### Sprint 2 - 09/10/2017 - Complete Proposal:
 
 | Task    | Group Member         | Time Allocated               | Completed                      |
 |----------------------------------------------------------|-----------------|----------------------|--------------------------------|
@@ -212,7 +212,7 @@ A user story is simply something a user wants. However think of these stories as
 | All proposal documentation complete | 09/10/17 | 7 days | 100% |
 
 
-##### Sprint 3 - 17/10/2017 Development 
+##### Sprint 3 - 17/10/2017 - Development: 
 
 | Task    | Group Member         | Time Allocated               | Completed                      |
 |----------------------------------------------------------|-----------------|----------------------|--------------------------------|
@@ -226,7 +226,7 @@ A user story is simply something a user wants. However think of these stories as
 | All development done | 17/10/17 | 6 days | 100% |
 
 
-##### Sprint 4 - 25/10/2017
+##### Sprint 4 - 25/10/2017 - Testing:
 
 | Task    | Group Member         | Time Allocated               | Completed                      |
 |----------------------------------------------------------|-----------------|----------------------|--------------------------------|
@@ -239,7 +239,6 @@ A user story is simply something a user wants. However think of these stories as
 |----------------------------------------------------------|-----------------|----------------------|--------------------------------|
 | Game is ready for shipping | 25/10/17 | 12 days | 80% |
 
-
 ##### What times are we available:
 In order to manage our time effectively we first needed to have a team meeting about what times everyone is available for this project. We knew that all of us were able to work on the project on Mondays, Tuesdays and Wednesday however all our members have other work commitments outside of college. Saturday and Sunday were ruled out as all of us worked over the weekend, this left Thursday and Friday. Thankfully only myself was unavailable on Thursdays so we could use all of Friday for outside work and Mark, Ryan and George could work on Thursday if it was required.
 ##### Deadlines:
@@ -251,6 +250,8 @@ On the 17th of October, We will be going to ZLS whipsnade zoo to deliver our con
 
 *Demo Presentation - 7th of November 2017*
 On the 7th of November, we will be going again to ZSL whipsnade zoo to demo our working product to the client. For this we will create another powerpoint that shows the client how to play the game, we will also be allowing the client representatives to play the game on iPads while we present so that they can follow us through the presentation and get a feel for what we are showing.
+
+---
 
 #### Problems Solving Techniques Used:
 ##### Contingency Plans:
