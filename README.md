@@ -191,8 +191,10 @@ A user story is simply something a user wants. However think of these stories as
 | Create a Flow Chart |    George  |     45 Minutes   |   Yes     | 
 | Research / Create concept art |   Sam   |   1 Hour    |      Yes       |
 | Create a full list of features and how it relates to clients requirements |  Mark  |   1 Hour | Yes |                                 | Project Specification  |   Whole Group |      1 hour    |  Yes    |
+
+| Milestone | Start Date | Time Taken to meet | % of completion |
 |----------------------------------------------------------|-----------------|----------------------|--------------------------------|
-| Milestone | End Date | Time Taken to meet | --- |
+| Design documentation complete | 03/10/17 | 13 days | 100% |
 
 
 ##### Sprint 2 - 09/10/2017 - Complete Proposal
@@ -205,6 +207,11 @@ A user story is simply something a user wants. However think of these stories as
 | Finalize Concept Pitch Ready For The Presentation for ZSL   |   Whole Group |      1 hour    |  Yes    |                   
 | Practice Run Though Of Pitch   |   Whole Group |      25 Minutes    |  Yes    |
 
+| Milestone | Start Date | Time Taken to meet | % of completion |
+|----------------------------------------------------------|-----------------|----------------------|--------------------------------|
+| All proposal documentation complete | 09/10/17 | 7 days | 100% |
+
+
 ##### Sprint 3 - 17/10/2017 Development 
 
 | Task    | Group Member         | Time Allocated               | Completed                      |
@@ -214,6 +221,11 @@ A user story is simply something a user wants. However think of these stories as
 | Create the Infomation That Will Be In The Game   |   George |     1 Week    |  Yes    |
 | Connect all scenes   |   Whole Group |      2 hour    |  Yes    |
 
+| Milestone | Start Date | Time Taken to meet | % of completion |
+|----------------------------------------------------------|-----------------|----------------------|--------------------------------|
+| All development done | 17/10/17 | 6 days | 100% |
+
+
 ##### Sprint 4 - 25/10/2017
 
 | Task    | Group Member         | Time Allocated               | Completed                      |
@@ -222,6 +234,11 @@ A user story is simply something a user wants. However think of these stories as
 | Testing to make Sure Home Screen Works   |   Mark |      20 Minutes    |  Yes    |
 | Compatible With the chosen browser from ZSL   |   Ryan |      20 Minutes    |  Yes    |
 | Tweaking and final parts to the application  |   Whole Group |      1 hour    |  Yes    |
+
+| Milestone | Start Date | Time Taken to meet | % of completion |
+|----------------------------------------------------------|-----------------|----------------------|--------------------------------|
+| Game is ready for shipping | 25/10/17 | 12 days | 80% |
+
 
 ##### What times are we available:
 In order to manage our time effectively we first needed to have a team meeting about what times everyone is available for this project. We knew that all of us were able to work on the project on Mondays, Tuesdays and Wednesday however all our members have other work commitments outside of college. Saturday and Sunday were ruled out as all of us worked over the weekend, this left Thursday and Friday. Thankfully only myself was unavailable on Thursdays so we could use all of Friday for outside work and Mark, Ryan and George could work on Thursday if it was required.
