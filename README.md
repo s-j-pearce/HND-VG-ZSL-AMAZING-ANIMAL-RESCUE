@@ -190,7 +190,9 @@ A user story is simply something a user wants. However think of these stories as
 | Create a Story Board | Ryan | 45 Minutes | Yes | 
 | Create a Flow Chart |    George  |     45 Minutes   |   Yes     | 
 | Research / Create concept art |   Sam   |   1 Hour    |      Yes       |
-| Create a full list of features and how it relates to clients requirements |  Mark  |   1 Hour | Yes |                                 | Project Specification  |   Whole Group |      1 hour    |  Yes    |                   
+| Create a full list of features and how it relates to clients requirements |  Mark  |   1 Hour | Yes |                                 | Project Specification  |   Whole Group |      1 hour    |  Yes    |
+|----------------------------------------------------------|-----------------|----------------------|--------------------------------|
+| Milestone | End Date | Time Taken to meet | --- |
 
 
 ##### Sprint 2 - 09/10/2017 - Complete Proposal
